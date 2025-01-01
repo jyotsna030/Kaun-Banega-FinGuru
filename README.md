@@ -113,13 +113,22 @@ Kaun Banega FinGuru is an interactive quiz app focused on financial literacy:
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](assets/screenshots/splash_screen.png)
+![Splash Screen](https://github.com/jyotsna030/Kaun-Banega-FinGuru/blob/main/assets/images/Shares%20are.png)
 
-### Quiz Screen
-![Quiz Screen](assets/screenshots/quiz_screen.png)
+### How it works
+![How it works](https://github.com/jyotsna030/Kaun-Banega-FinGuru/blob/main/assets/images/Shares%20are%20(2).png)
 
-### Rewards Page
-![Rewards Page](assets/screenshots/rewards_page.png)
+### Screens
+![Screens](https://github.com/jyotsna030/Kaun-Banega-FinGuru/blob/main/assets/images/Shares%20are%20(4).png)
+
+### Screens
+![Screens](https://github.com/jyotsna030/Kaun-Banega-FinGuru/blob/main/assets/images/Shares%20are%20(5).png)
+
+### Features
+![Features](https://github.com/jyotsna030/Kaun-Banega-FinGuru/blob/main/assets/images/Shares%20are%20(3).png)
+
+### FlowChart
+![Screens]()
 
 ---
 

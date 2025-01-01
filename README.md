@@ -134,13 +134,7 @@ Kaun Banega FinGuru is an interactive quiz app focused on financial literacy:
 
 ## Demo Video
 
-[Click Here to Watch the Demo](https://example.com/demo-video)
-
-Or embed the video directly:
-
-```markdown
-[![Watch the Demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
-```
+[Click Here to Watch the Demo](https://youtu.be/oU4xW54e8uE?si=8XeucpdA1xQcHZSg)
 
 ---
 

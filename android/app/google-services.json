@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168682092673",
+    "project_id": "kbf-app-5bb69",
+    "storage_bucket": "kbf-app-5bb69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168682092673:android:38c3fb760db601f5fc3580",
+        "android_client_info": {
+          "package_name": "com.mycompany.kbfapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZtU6-HzYcFz-_ohlNONMsagWoBKZ_8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
